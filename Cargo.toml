@@ -1,0 +1,12 @@
+[package]
+name = "rk_lottery"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+csv = "1.1.6"
+rand = "0.8.4"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+tempfile = "3.8.0"
+toml = "0.5"

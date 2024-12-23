@@ -1,0 +1,19 @@
+# Number of games to generate
+no_of_games = 28
+
+## Initial set of game numbers
+# Make sure to include your lucky game here
+# No two of these games may share a triplet of numbers  
+initial_games = [
+    [32, 35, 41, 48, 50, 59],
+    [34, 44, 47, 49, 52, 53]
+]
+
+# Random seed for number generation (optional)
+seed = 12345
+
+# Maximum playable number
+max_number = 60
+
+# Minimum desired number
+min_desired_number = 32
