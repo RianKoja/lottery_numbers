@@ -31,6 +31,8 @@ Both steps (Rust and Python) can also be executed in Docker by running:
 bash run.sh
 ```
 
+A file named `optimized_games.csv` will be created on the root folder.
+
 ## Testing
 
 Run tests locally:
